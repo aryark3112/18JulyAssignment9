@@ -1,0 +1,8 @@
+D:\18JulyAssignment9\18JulyAssignment9\bin\Debug\18JulyAssignment9.exe.config
+D:\18JulyAssignment9\18JulyAssignment9\bin\Debug\18JulyAssignment9.exe
+D:\18JulyAssignment9\18JulyAssignment9\bin\Debug\18JulyAssignment9.pdb
+D:\18JulyAssignment9\18JulyAssignment9\obj\Debug\18JulyAssignment9.csproj.AssemblyReference.cache
+D:\18JulyAssignment9\18JulyAssignment9\obj\Debug\18JulyAssignment9.csproj.SuggestedBindingRedirects.cache
+D:\18JulyAssignment9\18JulyAssignment9\obj\Debug\18JulyAssignment9.csproj.CoreCompileInputs.cache
+D:\18JulyAssignment9\18JulyAssignment9\obj\Debug\18JulyAssignment9.exe
+D:\18JulyAssignment9\18JulyAssignment9\obj\Debug\18JulyAssignment9.pdb
