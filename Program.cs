@@ -22,23 +22,23 @@ namespace _18JulyAssignment9
                 var Email = Console.ReadLine();
                 Console.WriteLine("enter Your Password");
                 var Password = Console.ReadLine();
-                int l1 = Name.Length;
-                int l2 = Password.Length;
-                if (l1 < 6)
+                int n1 = Name.Length;
+                int n2 = Password.Length;
+                if (n1 < 6)
                 {
-                    throw new ValidationException($"Error {Name} invalid ,Name should be 6 digit");
+                    throw new ValidationException($"Error {Name} invalid ,Name must be 6 digit");
                 }
-                if (l2 < 8)
+                if (n2 < 8)
                 {
-                    throw new ValidationException($"Error {Password} invalid Password should be 8 digit");
+                    throw new ValidationException($"Error {Password} invalid Password must be 8 digit");
                 }
                 else
                 {
                     Console.WriteLine("valiadation successfull");
                     Console.WriteLine("Your Details are");
-                    Console.WriteLine("____________________________________");
+                    Console.WriteLine("************************************");
                     Console.WriteLine($"\nName:\t{Name} \n Email:\t{Email}\n Password:\t{Password}");
-                    Console.WriteLine("____________________________________");
+                    Console.WriteLine("**************************************");
 
                 }
 
